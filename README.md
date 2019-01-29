@@ -16,3 +16,9 @@ https://www.ruby-lang.org/ja/libraries/
 2019/01/29時点では158,941,506回
 http://bestgems.org/search?q=rails
 
+1.2
+AWSのユーザー登録をした
+Cloud9は東京リージョンはサポート外だったので、シンガポールにした
+設定補足
+https://remonote.jp/aws-cloud9-ruby-on-rails
+
